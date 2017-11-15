@@ -103,4 +103,3 @@ obj-$(CONFIG_TOUCHSCREEN_GT9XX)		+= gt9xx/
 obj-$(CONFIG_LGE_TOUCH_CORE)		+= lge/
 obj-$(CONFIG_TOUCHSCREEN_FTM4)		+= stm/
 obj-$(CONFIG_TOUCHSCREEN_ST)		+= st/
-obj-$(CONFIG_SWEEP2SLEEP)		+= sweep2sleep.o
